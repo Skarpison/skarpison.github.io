@@ -1,0 +1,6 @@
+title: "Skarpison's Little Corner"
+description: "A personal site to share ideas and projects."
+author: Skarpison
+baseurl: "" # Leave empty if hosting at the root, otherwise set subdirectory (e.g., "/blog")
+markdown: kramdown # Default markdown processor for Jekyll
+permalink: pretty # Generates clean URLs without .html extensions
