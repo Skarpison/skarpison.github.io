@@ -2,6 +2,7 @@
 layout: default
 title: Using EndeavourOS Live USB
 ---
+[Go back to the beginning](/) 
 
 ## Where stuff is(instructions are below image)
 ![Screenshot of EndeavourOS desktop showing the Wi-Fi & Networking settings window. The left panel includes options like "Wi-Fi & Networking," "Firewall," and "Proxy." The right panel shows the connection settings for "lo" with IPv4 configuration. The bottom section highlights a "+" button labeled "Add New Connection." The taskbar at the bottom features a "Start Menu" icon, File Explorer, Firefox, and other applications. The background displays a space-themed wallpaper with the EndeavourOS logo and the tagline, "After 5 years, the journey continues. The future awaits..."](/images/endeavourOS-live-usb.png)
