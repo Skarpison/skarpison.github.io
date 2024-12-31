@@ -12,7 +12,7 @@ Encrypting files is good to keep things from seeing what is inside the files. Th
 
 ## Steps to encrypt a file
 
-1. Install pacman with: `sudo pacman -S gnupg`
+1. Install [gnupg](https://gnupg.org/)(GNU Privacy Guard) with: `sudo pacman -S gnupg`
 2. Go to a safe directory and do the following
    1. Open a new file the name 'junk_file' in the nano editor with: `nano junk_file`
    2. Type some stuff into the file
