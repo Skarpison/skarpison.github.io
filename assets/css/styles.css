@@ -5,7 +5,20 @@ img {
 }
 
 body {
-  background-color: #121212;
+  background-color: #3f3e3e;
   color: #ffffff;
   font-family: 'Fira Code', monospace;
+}
+
+
+a {
+  color: #0371df; /* blue */
+}
+
+a:visited {
+  color: #33CC33; /* green */
+}
+
+a:hover {
+  color: #cef32b; /* darker blue */
 }

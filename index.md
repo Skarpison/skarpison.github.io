@@ -3,11 +3,12 @@ layout: default
 title: Get to the choppa!
 ---
 ## Introduction
-I'll be putting stuff here about [Todoist](https://todoist.com) and [Logseq](https://logseq.com). Plus other tools!
+I'll be putting stuff here about [Todoist](https://todoist.com) and [Logseq](https://logseq.com). Plus other tools! And other stuff. Randomness. 
 
 ## Other Pages
- - [Using EndeavourOS Live USB](endeavouros-live-usb/)
- - [Creating Github Personal Access Tokens](create-github-pac/)
+ - 2024-12-20 [Using EndeavourOS Live USB](endeavouros-live-usb/)
+ - 2024-12-21 [Creating Github Personal Access Tokens](create-github-pac/)
+ - 2024-12-03 [Encrypting a File](encrypt-a-file/)
 
 ## Images I Made
 Which zone are ya in? Which zone are ya in? Which zone are ya in?
